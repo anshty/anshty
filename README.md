@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshty
 - 👀 I’m interested in App development 
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ankitverma374627@gmail.com
 
 <!---
