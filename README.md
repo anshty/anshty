@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @anshty
-- 👀 I’m interested in App development 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ankitverma374627@gmail.com
+# 👋 Hi, I'm Ankit Verma
 
-<!---
-anshty/anshty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 React Native Developer | JavaScript Enthusiast  
+
+---
+
+## 👀 About Me
+- 📱 I’m interested in **Mobile App Development (React Native)**
+- 🌱 Currently learning **Advanced JavaScript, Backend (Node.js, Express, MongoDB)**
+- 💡 Exploring **Full Stack Development & App Architecture**
+- 🎯 Goal: To become a **professional mobile app developer**
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React Native, React.js, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📱 Projects
+- 🚀 **Disha Yatra App** – Travel & tourist social platform  
+- 💬 Chat App (In Progress) – Real-time messaging & calls  
+- 🌐 Portfolio Website  - https://byankit.vercel.app/
+
+---
+
+## 📫 Contact Me
+- 📧 Email: ankitverma374627@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ankit-verma-9bb616247/
+
+---
+
+⭐ *Always learning and building new things!*
