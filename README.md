@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: ankitverma374627@gmail.com  
+- 📧 Email: aankitvermaa3@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ankit-verma-9bb616247/
 
 ---
